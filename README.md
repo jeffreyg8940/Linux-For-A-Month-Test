@@ -18,7 +18,7 @@
 
 >All of these have different use cases and different desktop experinces, it can get to the point that a some linux distros (Distro -> Ditrubution) dont even have a desktop its just a command linx
 
-![What a desktop Linux looks like!](\Linux-For-A-Month-Test\Online Photos for the readme!\yaru-screenshot-large.jpg)
+![What a desktop Linux looks like!](Online Photos for the readme!\yaru-screenshot-large.jpg)
 
 ### Thats it for now.
 
